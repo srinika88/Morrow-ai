@@ -1,0 +1,1920 @@
+{
+  "profile": {
+    "id": "user_elena_1",
+    "name": "Elena Vance",
+    "email": "elena.vance@example.com",
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=250&q=80",
+    "pronouns": "she/her",
+    "age": 32,
+    "conditions": [
+      "Vestibular Migraine",
+      "Fibromyalgia",
+      "Dysautonomia (POTS)"
+    ],
+    "goals": [
+      "Identify afternoon migraine triggers & screen exposure patterns",
+      "Maintain energy baseline with 25-minute pacing intervals",
+      "Track sleep restorativeness and morning muscle stiffness"
+    ],
+    "allergies": [
+      "Penicillin",
+      "Sulfa antibiotics",
+      "Synthetic fragrances (sensory trigger)"
+    ],
+    "emergencyContact": {
+      "name": "Julian Vance",
+      "relationship": "Partner",
+      "phone": "+1 (555) 234-8901"
+    },
+    "preferences": {
+      "notificationsEnabled": true,
+      "medicationReminders": true,
+      "checkInReminderTime": "08:30",
+      "aiMemoryEnabled": true,
+      "anonymousPostingDefault": false
+    }
+  },
+  "checkIns": [
+    {
+      "id": "checkin_2026-10-27",
+      "date": "2026-10-27",
+      "timestamp": "2026-10-27T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 8.2,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-10-28",
+      "date": "2026-10-28",
+      "timestamp": "2026-10-28T08:45:00Z",
+      "overallFeeling": "Woke up with heavy temple throbbing and cervical stiffness.",
+      "mood": "struggling",
+      "energyLevel": 3,
+      "painLevel": 6,
+      "sleepHours": 5.2,
+      "sleepQuality": 2,
+      "notableSymptoms": [
+        "Vestibular Migraine",
+        "Brain Fog",
+        "Neck Tension"
+      ]
+    },
+    {
+      "id": "checkin_2026-10-29",
+      "date": "2026-10-29",
+      "timestamp": "2026-10-29T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 8.2,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-10-30",
+      "date": "2026-10-30",
+      "timestamp": "2026-10-30T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 7.8,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-10-31",
+      "date": "2026-10-31",
+      "timestamp": "2026-10-31T08:45:00Z",
+      "overallFeeling": "Woke up with heavy temple throbbing and cervical stiffness.",
+      "mood": "low",
+      "energyLevel": 4,
+      "painLevel": 7,
+      "sleepHours": 5.2,
+      "sleepQuality": 2,
+      "notableSymptoms": [
+        "Vestibular Migraine",
+        "Brain Fog",
+        "Neck Tension"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-01",
+      "date": "2026-11-01",
+      "timestamp": "2026-11-01T08:45:00Z",
+      "overallFeeling": "Woke up with heavy temple throbbing and cervical stiffness.",
+      "mood": "struggling",
+      "energyLevel": 3,
+      "painLevel": 6,
+      "sleepHours": 6,
+      "sleepQuality": 2,
+      "notableSymptoms": [
+        "Vestibular Migraine",
+        "Brain Fog",
+        "Neck Tension"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-02",
+      "date": "2026-11-02",
+      "timestamp": "2026-11-02T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 8.2,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-03",
+      "date": "2026-11-03",
+      "timestamp": "2026-11-03T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "great",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 7.8,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-04",
+      "date": "2026-11-04",
+      "timestamp": "2026-11-04T08:45:00Z",
+      "overallFeeling": "Woke up with heavy temple throbbing and cervical stiffness.",
+      "mood": "low",
+      "energyLevel": 4,
+      "painLevel": 7,
+      "sleepHours": 6,
+      "sleepQuality": 2,
+      "notableSymptoms": [
+        "Vestibular Migraine",
+        "Brain Fog",
+        "Neck Tension"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-05",
+      "date": "2026-11-05",
+      "timestamp": "2026-11-05T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 7.8,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-06",
+      "date": "2026-11-06",
+      "timestamp": "2026-11-06T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "great",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 8.2,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-07",
+      "date": "2026-11-07",
+      "timestamp": "2026-11-07T08:45:00Z",
+      "overallFeeling": "Woke up with heavy temple throbbing and cervical stiffness.",
+      "mood": "struggling",
+      "energyLevel": 3,
+      "painLevel": 6,
+      "sleepHours": 6,
+      "sleepQuality": 2,
+      "notableSymptoms": [
+        "Vestibular Migraine",
+        "Brain Fog",
+        "Neck Tension"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-08",
+      "date": "2026-11-08",
+      "timestamp": "2026-11-08T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "calm",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 8.2,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    },
+    {
+      "id": "checkin_2026-11-09",
+      "date": "2026-11-09",
+      "timestamp": "2026-11-09T08:45:00Z",
+      "overallFeeling": "Rested well. Gentle energy reserves feeling balanced today.",
+      "mood": "great",
+      "energyLevel": 7,
+      "painLevel": 2,
+      "sleepHours": 7.8,
+      "sleepQuality": 4,
+      "notableSymptoms": [
+        "Mild Fatigue"
+      ]
+    }
+  ],
+  "symptoms": [
+    {
+      "id": "sym_2026-10-28_1",
+      "name": "Vestibular Migraine",
+      "severity": 7,
+      "date": "2026-10-28",
+      "time": "11:15",
+      "durationMinutes": 180,
+      "location": "Right temple & behind right eye",
+      "frequency": "recurring",
+      "triggers": [
+        "Sleep deprivation (<6h)",
+        "Fluorescent screen flicker",
+        "Skipped breakfast"
+      ],
+      "associatedActivities": [
+        "Prolonged desk spreadsheet work",
+        "Virtual meetings"
+      ],
+      "notes": "Pulsing throbbing accompanied by mild room spin and photophobia.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-10-28_2",
+      "name": "Brain Fog & Cognitive Lag",
+      "severity": 5,
+      "date": "2026-10-28",
+      "time": "14:00",
+      "durationMinutes": 240,
+      "location": "Diffuse frontal head",
+      "frequency": "intermittent",
+      "triggers": [
+        "Mental exertion",
+        "Post-migraine exhaustion"
+      ],
+      "associatedActivities": [
+        "Email triage"
+      ],
+      "notes": "Difficulty finding words and sustaining focus.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-10-31_1",
+      "name": "Vestibular Migraine",
+      "severity": 7,
+      "date": "2026-10-31",
+      "time": "11:15",
+      "durationMinutes": 180,
+      "location": "Right temple & behind right eye",
+      "frequency": "recurring",
+      "triggers": [
+        "Sleep deprivation (<6h)",
+        "Fluorescent screen flicker",
+        "Skipped breakfast"
+      ],
+      "associatedActivities": [
+        "Prolonged desk spreadsheet work",
+        "Virtual meetings"
+      ],
+      "notes": "Pulsing throbbing accompanied by mild room spin and photophobia.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-10-31_2",
+      "name": "Brain Fog & Cognitive Lag",
+      "severity": 5,
+      "date": "2026-10-31",
+      "time": "14:00",
+      "durationMinutes": 240,
+      "location": "Diffuse frontal head",
+      "frequency": "intermittent",
+      "triggers": [
+        "Mental exertion",
+        "Post-migraine exhaustion"
+      ],
+      "associatedActivities": [
+        "Email triage"
+      ],
+      "notes": "Difficulty finding words and sustaining focus.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-01_1",
+      "name": "Vestibular Migraine",
+      "severity": 7,
+      "date": "2026-11-01",
+      "time": "11:15",
+      "durationMinutes": 180,
+      "location": "Right temple & behind right eye",
+      "frequency": "recurring",
+      "triggers": [
+        "Sleep deprivation (<6h)",
+        "Fluorescent screen flicker",
+        "Skipped breakfast"
+      ],
+      "associatedActivities": [
+        "Prolonged desk spreadsheet work",
+        "Virtual meetings"
+      ],
+      "notes": "Pulsing throbbing accompanied by mild room spin and photophobia.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-01_2",
+      "name": "Brain Fog & Cognitive Lag",
+      "severity": 5,
+      "date": "2026-11-01",
+      "time": "14:00",
+      "durationMinutes": 240,
+      "location": "Diffuse frontal head",
+      "frequency": "intermittent",
+      "triggers": [
+        "Mental exertion",
+        "Post-migraine exhaustion"
+      ],
+      "associatedActivities": [
+        "Email triage"
+      ],
+      "notes": "Difficulty finding words and sustaining focus.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-03_3",
+      "name": "Trapezius & Neck Stiffness",
+      "severity": 3,
+      "date": "2026-11-03",
+      "time": "16:00",
+      "durationMinutes": 90,
+      "location": "Upper back and cervical spine",
+      "frequency": "intermittent",
+      "triggers": [
+        "Static sitting posture"
+      ],
+      "associatedActivities": [
+        "Laptop work"
+      ],
+      "notes": "Relieved after 10m heating pad and gentle neck rotation.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-04_1",
+      "name": "Vestibular Migraine",
+      "severity": 7,
+      "date": "2026-11-04",
+      "time": "11:15",
+      "durationMinutes": 180,
+      "location": "Right temple & behind right eye",
+      "frequency": "recurring",
+      "triggers": [
+        "Sleep deprivation (<6h)",
+        "Fluorescent screen flicker",
+        "Skipped breakfast"
+      ],
+      "associatedActivities": [
+        "Prolonged desk spreadsheet work",
+        "Virtual meetings"
+      ],
+      "notes": "Pulsing throbbing accompanied by mild room spin and photophobia.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-04_2",
+      "name": "Brain Fog & Cognitive Lag",
+      "severity": 5,
+      "date": "2026-11-04",
+      "time": "14:00",
+      "durationMinutes": 240,
+      "location": "Diffuse frontal head",
+      "frequency": "intermittent",
+      "triggers": [
+        "Mental exertion",
+        "Post-migraine exhaustion"
+      ],
+      "associatedActivities": [
+        "Email triage"
+      ],
+      "notes": "Difficulty finding words and sustaining focus.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-06_3",
+      "name": "Trapezius & Neck Stiffness",
+      "severity": 3,
+      "date": "2026-11-06",
+      "time": "16:00",
+      "durationMinutes": 90,
+      "location": "Upper back and cervical spine",
+      "frequency": "intermittent",
+      "triggers": [
+        "Static sitting posture"
+      ],
+      "associatedActivities": [
+        "Laptop work"
+      ],
+      "notes": "Relieved after 10m heating pad and gentle neck rotation.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-07_1",
+      "name": "Vestibular Migraine",
+      "severity": 7,
+      "date": "2026-11-07",
+      "time": "11:15",
+      "durationMinutes": 180,
+      "location": "Right temple & behind right eye",
+      "frequency": "recurring",
+      "triggers": [
+        "Sleep deprivation (<6h)",
+        "Fluorescent screen flicker",
+        "Skipped breakfast"
+      ],
+      "associatedActivities": [
+        "Prolonged desk spreadsheet work",
+        "Virtual meetings"
+      ],
+      "notes": "Pulsing throbbing accompanied by mild room spin and photophobia.",
+      "loggedVia": "ai_chat"
+    },
+    {
+      "id": "sym_2026-11-07_2",
+      "name": "Brain Fog & Cognitive Lag",
+      "severity": 5,
+      "date": "2026-11-07",
+      "time": "14:00",
+      "durationMinutes": 240,
+      "location": "Diffuse frontal head",
+      "frequency": "intermittent",
+      "triggers": [
+        "Mental exertion",
+        "Post-migraine exhaustion"
+      ],
+      "associatedActivities": [
+        "Email triage"
+      ],
+      "notes": "Difficulty finding words and sustaining focus.",
+      "loggedVia": "manual"
+    },
+    {
+      "id": "sym_2026-11-09_3",
+      "name": "Trapezius & Neck Stiffness",
+      "severity": 3,
+      "date": "2026-11-09",
+      "time": "16:00",
+      "durationMinutes": 90,
+      "location": "Upper back and cervical spine",
+      "frequency": "intermittent",
+      "triggers": [
+        "Static sitting posture"
+      ],
+      "associatedActivities": [
+        "Laptop work"
+      ],
+      "notes": "Relieved after 10m heating pad and gentle neck rotation.",
+      "loggedVia": "manual"
+    }
+  ],
+  "medications": [
+    {
+      "id": "med_1",
+      "name": "Amitriptyline",
+      "dosage": "25 mg",
+      "frequency": "Once daily",
+      "scheduleTimes": [
+        "21:00"
+      ],
+      "timeOfDay": [
+        "Bedtime"
+      ],
+      "instructions": "Take 1 hour before sleep with water",
+      "startDate": "2026-08-15",
+      "purpose": "Migraine prophylaxis & neuropathic pain modulation",
+      "colorTag": "#DCD5F2",
+      "active": true,
+      "notes": "Prescribed by Dr. Aris. Helps with slow-wave sleep depth."
+    },
+    {
+      "id": "med_2",
+      "name": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "frequency": "Once daily",
+      "scheduleTimes": [
+        "21:30"
+      ],
+      "timeOfDay": [
+        "Bedtime"
+      ],
+      "instructions": "Take with evening snack or herbal tea",
+      "startDate": "2026-09-01",
+      "purpose": "Muscle relaxation & migraine threshold support",
+      "colorTag": "#DCE7D8",
+      "active": true,
+      "notes": "Chelated form gentle on digestion"
+    },
+    {
+      "id": "med_3",
+      "name": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "frequency": "Once daily",
+      "scheduleTimes": [
+        "08:30"
+      ],
+      "timeOfDay": [
+        "Morning"
+      ],
+      "instructions": "Take with breakfast containing healthy fats",
+      "startDate": "2026-09-10",
+      "purpose": "Cellular mitochondrial energy support",
+      "colorTag": "#F5E8A8",
+      "active": true
+    },
+    {
+      "id": "med_4",
+      "name": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "frequency": "Twice daily",
+      "scheduleTimes": [
+        "09:00",
+        "14:00"
+      ],
+      "timeOfDay": [
+        "Morning",
+        "Afternoon"
+      ],
+      "instructions": "Sip steadily to support intravascular volume for POTS",
+      "startDate": "2026-07-20",
+      "purpose": "Dysautonomia blood pressure stability",
+      "colorTag": "#EEE9F7",
+      "active": true
+    },
+    {
+      "id": "med_5",
+      "name": "Sumatriptan (Imitrex)",
+      "dosage": "50 mg",
+      "frequency": "As needed",
+      "scheduleTimes": [
+        "12:00"
+      ],
+      "timeOfDay": [
+        "Afternoon"
+      ],
+      "instructions": "Take at earliest onset of aura or throbbing pain",
+      "startDate": "2026-08-01",
+      "purpose": "Acute migraine abortive",
+      "colorTag": "#574665",
+      "active": true,
+      "notes": "Limit to max 2 doses per week to prevent medication overuse headache"
+    }
+  ],
+  "medicationLogs": [
+    {
+      "id": "medlog_2026-10-27_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-10-27",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-10-27T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-10-27_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-10-27",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-10-27T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-10-27_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-10-27",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-10-27T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-10-27_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-10-27",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-10-27T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-10-28_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-10-28",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-10-28T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-10-28_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-10-28",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-10-28T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-10-28_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-10-28",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-10-28T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-10-28_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-10-28",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-10-28T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-10-29_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-10-29",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-10-29T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-10-29_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-10-29",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-10-29T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-10-29_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-10-29",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-10-29T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-10-29_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-10-29",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-10-29T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-10-30_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-10-30",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-10-30T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-10-30_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-10-30",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-10-30T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-10-30_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-10-30",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-10-30T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-10-30_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-10-30",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-10-30T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-10-31_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-10-31",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-10-31T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-10-31_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-10-31",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-10-31T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-10-31_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-10-31",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-10-31T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-10-31_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-10-31",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-10-31T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-01_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-01",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-01T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-01_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-01",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-01T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-01_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-01",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-01T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-01_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-01",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-01T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-02_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-02",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-02T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-02_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-02",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-02T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-02_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-02",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-02T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-02_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-02",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-02T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-03_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-03",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-03T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-03_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-03",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-03T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-03_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-03",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-03T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-03_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-03",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-03T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-04_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-04",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-04T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-04_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-04",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-04T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-04_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-04",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-04T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-04_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-04",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-04T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-05_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-05",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-05T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-05_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-05",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-05T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-05_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-05",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-05T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-05_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-05",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-05T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-06_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-06",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-06T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-06_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-06",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-06T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-06_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-06",
+      "scheduledTime": "08:30",
+      "status": "skipped",
+      "skipReason": "Fasted for blood draw"
+    },
+    {
+      "id": "medlog_2026-11-06_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-06",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-06T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-07_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-07",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-07T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-07_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-07",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-07T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-07_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-07",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-07T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-07_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-07",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-07T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-08_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-08",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-08T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-08_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-08",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-08T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-08_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-08",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-08T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-08_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-08",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-08T09:15:00Z"
+    },
+    {
+      "id": "medlog_2026-11-09_1",
+      "medicationId": "med_1",
+      "medicationName": "Amitriptyline",
+      "dosage": "25 mg",
+      "date": "2026-11-09",
+      "scheduledTime": "21:00",
+      "status": "taken",
+      "takenAt": "2026-11-09T21:05:00Z",
+      "perceivedEffectiveness": 4
+    },
+    {
+      "id": "medlog_2026-11-09_2",
+      "medicationId": "med_2",
+      "medicationName": "Magnesium Glycinate",
+      "dosage": "400 mg",
+      "date": "2026-11-09",
+      "scheduledTime": "21:30",
+      "status": "taken",
+      "takenAt": "2026-11-09T21:35:00Z",
+      "perceivedEffectiveness": 5
+    },
+    {
+      "id": "medlog_2026-11-09_3",
+      "medicationId": "med_3",
+      "medicationName": "CoQ10 (Ubiquinol)",
+      "dosage": "200 mg",
+      "date": "2026-11-09",
+      "scheduledTime": "08:30",
+      "status": "taken",
+      "takenAt": "2026-11-09T08:40:00Z"
+    },
+    {
+      "id": "medlog_2026-11-09_4",
+      "medicationId": "med_4",
+      "medicationName": "Electrolyte Hydration Complex",
+      "dosage": "1 Packet in 750ml water",
+      "date": "2026-11-09",
+      "scheduledTime": "09:00",
+      "status": "taken",
+      "takenAt": "2026-11-09T09:15:00Z"
+    }
+  ],
+  "energyEntries": [
+    {
+      "id": "energy_2026-10-27_am",
+      "date": "2026-10-27",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-10-27_pm",
+      "date": "2026-10-27",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-10-28_am",
+      "date": "2026-10-28",
+      "time": "08:30",
+      "level": 3,
+      "context": "morning_waking",
+      "notes": "Unrefreshing sleep, delayed morning wake"
+    },
+    {
+      "id": "energy_2026-10-28_pm",
+      "date": "2026-10-28",
+      "time": "14:30",
+      "level": 1,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-10-29_am",
+      "date": "2026-10-29",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-10-29_pm",
+      "date": "2026-10-29",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-10-30_am",
+      "date": "2026-10-30",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-10-30_pm",
+      "date": "2026-10-30",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-10-31_am",
+      "date": "2026-10-31",
+      "time": "08:30",
+      "level": 4,
+      "context": "morning_waking",
+      "notes": "Unrefreshing sleep, delayed morning wake"
+    },
+    {
+      "id": "energy_2026-10-31_pm",
+      "date": "2026-10-31",
+      "time": "14:30",
+      "level": 2,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-01_am",
+      "date": "2026-11-01",
+      "time": "08:30",
+      "level": 3,
+      "context": "morning_waking",
+      "notes": "Unrefreshing sleep, delayed morning wake"
+    },
+    {
+      "id": "energy_2026-11-01_pm",
+      "date": "2026-11-01",
+      "time": "14:30",
+      "level": 1,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-02_am",
+      "date": "2026-11-02",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-02_pm",
+      "date": "2026-11-02",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-03_am",
+      "date": "2026-11-03",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-03_pm",
+      "date": "2026-11-03",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-04_am",
+      "date": "2026-11-04",
+      "time": "08:30",
+      "level": 4,
+      "context": "morning_waking",
+      "notes": "Unrefreshing sleep, delayed morning wake"
+    },
+    {
+      "id": "energy_2026-11-04_pm",
+      "date": "2026-11-04",
+      "time": "14:30",
+      "level": 2,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-05_am",
+      "date": "2026-11-05",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-05_pm",
+      "date": "2026-11-05",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-06_am",
+      "date": "2026-11-06",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-06_pm",
+      "date": "2026-11-06",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-07_am",
+      "date": "2026-11-07",
+      "time": "08:30",
+      "level": 3,
+      "context": "morning_waking",
+      "notes": "Unrefreshing sleep, delayed morning wake"
+    },
+    {
+      "id": "energy_2026-11-07_pm",
+      "date": "2026-11-07",
+      "time": "14:30",
+      "level": 1,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-08_am",
+      "date": "2026-11-08",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-08_pm",
+      "date": "2026-11-08",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    },
+    {
+      "id": "energy_2026-11-09_am",
+      "date": "2026-11-09",
+      "time": "08:30",
+      "level": 7,
+      "context": "morning_waking",
+      "notes": "Woke up naturally"
+    },
+    {
+      "id": "energy_2026-11-09_pm",
+      "date": "2026-11-09",
+      "time": "14:30",
+      "level": 6,
+      "context": "midday",
+      "notes": "Midday pacing evaluation"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act_2026-10-27_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-10-27",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-10-28_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-10-28",
+      "time": "10:00",
+      "energyBefore": 3,
+      "energyAfter": 1,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-10-28_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-10-28",
+      "time": "12:00",
+      "energyBefore": 1,
+      "energyAfter": 2,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-10-29_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-10-29",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-10-30_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-10-30",
+      "time": "10:00",
+      "energyBefore": 7,
+      "energyAfter": 4,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-10-30_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-10-30",
+      "time": "12:00",
+      "energyBefore": 4,
+      "energyAfter": 6,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-10-31_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-10-31",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-11-01_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-11-01",
+      "time": "10:00",
+      "energyBefore": 3,
+      "energyAfter": 1,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-11-01_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-11-01",
+      "time": "12:00",
+      "energyBefore": 1,
+      "energyAfter": 2,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-11-02_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-11-02",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-11-03_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-11-03",
+      "time": "10:00",
+      "energyBefore": 7,
+      "energyAfter": 4,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-11-03_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-11-03",
+      "time": "12:00",
+      "energyBefore": 4,
+      "energyAfter": 6,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-11-04_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-11-04",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-11-05_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-11-05",
+      "time": "10:00",
+      "energyBefore": 7,
+      "energyAfter": 4,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-11-05_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-11-05",
+      "time": "12:00",
+      "energyBefore": 4,
+      "energyAfter": 6,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-11-06_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-11-06",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-11-07_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-11-07",
+      "time": "10:00",
+      "energyBefore": 3,
+      "energyAfter": 1,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-11-07_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-11-07",
+      "time": "12:00",
+      "energyBefore": 1,
+      "energyAfter": 2,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    },
+    {
+      "id": "act_2026-11-08_3",
+      "title": "Shaded Garden Stroll (Gentle Movement)",
+      "category": "physical",
+      "durationMinutes": 20,
+      "date": "2026-11-08",
+      "time": "15:30",
+      "energyBefore": 5,
+      "energyAfter": 5,
+      "recoveryTimeMinutes": 10,
+      "notes": "Maintained low heart rate zone. Felt refreshing without PEM."
+    },
+    {
+      "id": "act_2026-11-09_1",
+      "title": "Deep Focused Writing & Data Review",
+      "category": "cognitive",
+      "durationMinutes": 55,
+      "date": "2026-11-09",
+      "time": "10:00",
+      "energyBefore": 7,
+      "energyAfter": 4,
+      "recoveryTimeMinutes": 45,
+      "notes": "Exceeded 30-minute pacing threshold. Noticed heavy eyes."
+    },
+    {
+      "id": "act_2026-11-09_2",
+      "title": "Somatic Floor Breathing & Rest",
+      "category": "rest",
+      "durationMinutes": 25,
+      "date": "2026-11-09",
+      "time": "12:00",
+      "energyBefore": 4,
+      "energyAfter": 6,
+      "recoveryTimeMinutes": 0,
+      "notes": "Eye mask on, horizontal rest, nervous system settling."
+    }
+  ],
+  "insights": [
+    {
+      "id": "ins_sleep_migraine",
+      "title": "Sleep Duration & Afternoon Migraine Correlation",
+      "category": "sleep_symptom",
+      "observation": "Vestibular migraines occurred on 4 out of 5 days where night sleep was under 6.2 hours.",
+      "detailedAnalysis": "Across 14 tracked days, days with <6.2h sleep showed an average next-day pain rating of 6.6/10 compared to 2.1/10 on days with >7.5h sleep. The onset typically manifests between 11:00 AM and 2:00 PM, preceded by neck tightness.",
+      "periodDescription": "Last 14 days (5 recorded short-sleep nights)",
+      "occurrencesCount": 5,
+      "confidence": "high",
+      "supportingData": [
+        {
+          "label": "Avg Pain on Short Sleep (<6.5h)",
+          "value": "6.6 / 10",
+          "dates": [
+            "2026-11-06",
+            "2026-11-03",
+            "2026-10-31",
+            "2026-10-30",
+            "2026-10-27"
+          ]
+        },
+        {
+          "label": "Avg Pain on Restorative Sleep (>7.5h)",
+          "value": "2.1 / 10",
+          "dates": [
+            "2026-11-07",
+            "2026-11-05",
+            "2026-11-04",
+            "2026-11-02"
+          ]
+        },
+        {
+          "label": "Statistical Correlation Coefficient",
+          "value": "r = -0.78 (Strong inverse)",
+          "dates": []
+        }
+      ],
+      "actionableSuggestion": "Explore buffering your evening wind-down starting at 20:45 to safeguard a consistent 7.5h sleep window before busy work days.",
+      "nonClinicalNote": "This is an observed statistical pattern in your personal records, not a diagnostic medical finding."
+    },
+    {
+      "id": "ins_pacing_fatigue",
+      "title": "Cognitive Duration Impact on Energy Depletion",
+      "category": "activity_fatigue",
+      "observation": "Continuous cognitive tasks exceeding 45 minutes lead to a 3.0 point average drop in energy.",
+      "detailedAnalysis": "When writing or reviewing data for longer than 45 minutes without an intermediate rest stop, post-activity energy dropped by an average of 3.0 points and required 45 minutes of horizontal recovery. In contrast, 25-minute Pomodoro pacing kept energy steady.",
+      "periodDescription": "Last 14 days (7 tracked cognitive sessions)",
+      "occurrencesCount": 7,
+      "confidence": "high",
+      "supportingData": [
+        {
+          "label": "Energy Drop (>45m unpaced)",
+          "value": "-3.0 points",
+          "dates": []
+        },
+        {
+          "label": "Energy Drop (<30m with rest)",
+          "value": "-0.8 points",
+          "dates": []
+        },
+        {
+          "label": "Required Recovery Duration",
+          "value": "45 min vs 10 min",
+          "dates": []
+        }
+      ],
+      "actionableSuggestion": "Setting a quiet 25-minute chime during laptop work may protect your afternoon reserve spoons.",
+      "nonClinicalNote": "Pacing strategies are personalized self-management tools and do not substitute for clinical advice."
+    },
+    {
+      "id": "ins_magnesium_stiffness",
+      "title": "Consistent Magnesium Adherence & Evening Muscle Relaxation",
+      "category": "medication",
+      "observation": "Nighttime neck and trapezius stiffness ratings declined by 40% on weeks with 100% magnesium adherence.",
+      "detailedAnalysis": "You have taken your Magnesium Glycinate 13 out of the past 14 days at bedtime. On days where it was taken with herbal tea, morning stiffness duration dropped from 90 minutes to under 30 minutes.",
+      "periodDescription": "Last 14 days",
+      "occurrencesCount": 13,
+      "confidence": "moderate",
+      "supportingData": [
+        {
+          "label": "Adherence Rate",
+          "value": "93% (13/14 days)",
+          "dates": []
+        },
+        {
+          "label": "Morning Stiffness Duration",
+          "value": "Reduced by 60 min",
+          "dates": []
+        }
+      ],
+      "actionableSuggestion": "Continue your evening ritual as scheduled; keep noting any subtle digestive tolerance.",
+      "nonClinicalNote": "Report observed medication responses to your prescribing physician during follow-ups."
+    }
+  ],
+  "communityPosts": [
+    {
+      "id": "post_1",
+      "title": "How I learned to stop feeling guilty about 20-minute horizontal rest",
+      "body": "For years with fibromyalgia and POTS, I thought resting meant \"giving up\" on my day. Morrow's pacing logs showed me clearly that a 20-minute dark-room eye break at 1:30 PM actually saves my entire evening. When you pace proactively before the crash hits, it is not lost time—it is maintenance.",
+      "category": "Fatigue",
+      "authorName": "Elena Vance",
+      "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=250&q=80",
+      "isAnonymous": false,
+      "createdAt": "2026-11-06T15:20:00Z",
+      "reactions": {
+        "heart": 42,
+        "relate": 38,
+        "hug": 19
+      },
+      "userReaction": "heart",
+      "saved": true,
+      "tags": [
+        "Pacing",
+        "Fibromyalgia",
+        "EnergyBudget",
+        "RestIsMedicine"
+      ],
+      "comments": [
+        {
+          "id": "comm_1_1",
+          "postId": "post_1",
+          "authorName": "Sora Tanaka",
+          "authorAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&q=80",
+          "isAnonymous": false,
+          "content": "This resonated so deeply. Preemptive rest is completely different from collapse rest!",
+          "createdAt": "2026-11-06T16:10:00Z",
+          "likes": 12
+        },
+        {
+          "id": "comm_1_2",
+          "postId": "post_1",
+          "authorName": "Anonymous Member",
+          "isAnonymous": true,
+          "content": "Thank you for this reminder today. I was just about to push through a headache.",
+          "createdAt": "2026-11-06T17:45:00Z",
+          "likes": 8
+        }
+      ]
+    },
+    {
+      "id": "post_2",
+      "title": "What questions helped you most when speaking to a neurologist about migraines?",
+      "body": "I am preparing my 30-day symptom report for an appointment next Tuesday. In the past I would get flustered and forget details. Printing out the frequency trends and trigger logs has already given me so much calm. What specific questions helped you get taken seriously?",
+      "category": "Chronic pain",
+      "authorName": "Marcus Bennett",
+      "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+      "isAnonymous": false,
+      "createdAt": "2026-11-05T11:00:00Z",
+      "reactions": {
+        "heart": 24,
+        "relate": 31,
+        "hug": 15
+      },
+      "tags": [
+        "Neurology",
+        "DoctorPrep",
+        "Advocacy",
+        "Migraine"
+      ],
+      "comments": [
+        {
+          "id": "comm_2_1",
+          "postId": "post_2",
+          "authorName": "Dr. Clara (Patient-Advocate)",
+          "authorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=150&q=80",
+          "isAnonymous": false,
+          "content": "Focus on functional impairment rather than just pain score: e.g. \"On 4 days this month, light sensitivity made it impossible to look at screens for 3 hours.\"",
+          "createdAt": "2026-11-05T13:20:00Z",
+          "likes": 21
+        }
+      ]
+    },
+    {
+      "id": "post_3",
+      "title": "Gentle wins of the week: sharing small victories that healthy people might miss",
+      "body": "Made my own bone broth soup today and did 10 minutes of somatic vagus nerve breathing without triggering dizziness. What is one small, tender win you are celebrating in your body this week?",
+      "category": "Everyday wellbeing",
+      "authorName": "Aria Chen",
+      "isAnonymous": false,
+      "createdAt": "2026-11-04T09:15:00Z",
+      "reactions": {
+        "heart": 56,
+        "relate": 44,
+        "hug": 33
+      },
+      "tags": [
+        "GentleWins",
+        "SelfCare",
+        "Gratitude"
+      ],
+      "comments": []
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "title": "Evening Routine & Medication",
+      "message": "Time for your Amitriptyline (25mg) and Magnesium Glycinate.",
+      "type": "medication",
+      "timestamp": "2026-11-08T21:00:00Z",
+      "read": false,
+      "actionUrl": "/medications"
+    },
+    {
+      "id": "notif_2",
+      "title": "New Health Pattern Detected",
+      "message": "Morrow identified an association between sleep under 6.2h and afternoon headaches.",
+      "type": "insight",
+      "timestamp": "2026-11-08T18:00:00Z",
+      "read": false,
+      "actionUrl": "/insights"
+    },
+    {
+      "id": "notif_3",
+      "title": "Pacing Check-in",
+      "message": "You have logged 50 minutes of continuous focus. How are your energy reserves?",
+      "type": "pacing",
+      "timestamp": "2026-11-08T15:00:00Z",
+      "read": true,
+      "actionUrl": "/energy"
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "msg_init_1",
+      "sender": "assistant",
+      "content": "Hello Elena. I'm Morrow, your health companion. I'm here to listen to how you're feeling, help connect patterns between your symptoms, energy, and sleep, and help you prepare for conversations with your doctors. How is your body feeling right now?",
+      "timestamp": "2026-11-09T08:00:00Z"
+    },
+    {
+      "sender": "user",
+      "content": "I have a headache around 6/10 started 1 hour ago after staring at the computer screen",
+      "id": "msg_1794211157233",
+      "timestamp": "2026-11-09T07:59:17.233Z"
+    },
+    {
+      "sender": "assistant",
+      "content": "I'm sorry you're navigating a migraine flare right now. I know how draining that throb and sensory overload can be. Would you like me to log this in your symptom tracker so you have an accurate record for your records? In the meantime, gentle dimming of your screen and sipping your electrolytes might give your nervous system some buffer.",
+      "suggestedAction": {
+        "type": "log_symptom",
+        "label": "Log Migraine Flare",
+        "data": {
+          "name": "Migraine / Headache Flare",
+          "severity": 6,
+          "location": "Temples & eyes",
+          "durationMinutes": 120,
+          "triggers": [
+            "Screen glare / mental focus"
+          ],
+          "notes": "I have a headache around 6/10 started 1 hour ago after staring at the computer screen"
+        }
+      },
+      "id": "msg_1794211160728",
+      "timestamp": "2026-11-09T07:59:20.728Z"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Morrow - Personal Health Companion",
+  "description": "Understand your health. One day at a time. An AI-powered personal health companion for chronic illness, symptom tracking, medication adherence, energy pacing, and doctor-ready reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
